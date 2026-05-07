@@ -10,7 +10,7 @@ Welcome to my GitHub portfolio repository. I’m currently studying Computer Inf
 
 ## 📸 Profile
 <p align="center">
-  <img src="finalassets/my_coprogrammers.jpg" alt="Sorry I dont want my face out there so here's my two helpers" width="150"/>
+  <img src="finalfinalassets/my_coprogrammers.jpg" alt="Sorry I dont want my face out there so here's my two helpers" width="150"/>
 </p>
 
 <h3 align="center">Jason Casillas</h3>
@@ -30,4 +30,66 @@ Welcome to my GitHub portfolio repository. I’m currently studying Computer Inf
 | [RPT5000](#rpt5000) | COBOL / JCL | Enterprise Computing | Advanced reporting with multi-level control break logic | [RPT5000](https://github.com/C0rinth1an/RPT5000) |
 | [RPT6000](#rpt6000) | COBOL / JCL | Enterprise Computing | Table processing, indexed lookups, and copybook usage | [RPT6000](https://github.com/C0rinth1an/RPT6000) |
 | [SEQ3000](#seq3000) | COBOL / JCL | Enterprise Computing | Sequential employee file maintenance program | [SEQ3000](https://github.com/C0rinth1an/SEQ3000) |
+
+---
+
+# CALC2000
+
+A `COBOL` batch program that calculates future investment values and demonstrates repeated doubling logic.
+
+### Key Concepts
+Arithmetic Operations | Future Value Calculations | Output Formatting | Batch Processing
+
+### Tech Stack
+![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+
+✅ Completed  
+[CALC2000 Repo](https://github.com/Pirategirl9000/CALC2000)
+
+<img src="finalassets/CALC2000running.png" width="150"/>
+
+🔙 [Back to TOC](#-table-of-contents)
+
+---
+
+# UTIL2000
+
+A `COBOL` utility billing system that calculates monthly electric bills based on customer kWh usage and outputs formatted billing information.
+
+### Key Concepts
+Conditional Logic | Calculations | Multi-Record Processing | Billing Output
+
+### Tech Stack
+![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+
+✅ Completed  
+[UTIL2000 Repo](https://github.com/C0rinth1an/UTIL2000)
+
+<img src="finalassets/UTIL2000running.png" width="150"/>
+
+🔙 [Back to TOC](#-table-of-contents)
+
+---
+
+# RPT2000
+
+A `COBOL` reporting program that processes customer records and generates a formatted Year-To-Date Sales Report with year-over-year comparisons.
+
+### Key Concepts
+COMPUTE/SUBTRACT | Percent Calculations | File Processing | Report Formatting
+
+### Tech Stack
+![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+
+✅ Completed  
+[RPT2000 Repo](https://github.com/C0rinth1an/RPT2000)
+
+<img src="finalassets/RPT2000running.png" width="150"/>
+
+🔙 [Back to TOC](#-table-of-contents)
+
+---
 
