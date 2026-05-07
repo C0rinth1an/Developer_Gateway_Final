@@ -10,5 +10,5 @@ Welcome to my GitHub portfolio repository. I’m currently studying Computer Inf
 
 ## 📸 Profile
 <p align="center">
-  <img src="https://github.com/C0rinth1an.png" alt="Profile Picture" width="150"/>
+  <img src="my_coprogrammers" alt="Sorry I dont want my face out there so here's my two helpers" width="150"/>
 </p>
