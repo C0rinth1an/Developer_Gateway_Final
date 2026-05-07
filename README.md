@@ -92,4 +92,87 @@ COMPUTE/SUBTRACT | Percent Calculations | File Processing | Report Formatting
 🔙 [Back to TOC](#-table-of-contents)
 
 ---
+---
 
+# RPT3000
+
+A `COBOL` reporting program that creates multi-page sales reports with branch-level processing and formatted totals.
+
+### Key Concepts
+Control Break Logic | Pagination | Branch Totals | Report Layout
+
+### Tech Stack
+![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+
+✅ Completed  
+[RPT3000 Repo](https://github.com/C0rinth1an/RPT3000)
+
+<img src="finalassets/RPT3000running.png" width="150"/>
+
+🔙 [Back to TOC](#-table-of-contents)
+
+---
+
+# RPT5000
+
+A `COBOL` reporting system that expands reporting functionality using multi-level control breaks and more advanced decision logic.
+
+### Key Concepts
+EVALUATE | 88-Level Conditions | Two-Level Control Breaks | COMPUTE ROUNDED
+
+### Tech Stack
+![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+
+✅ Completed  
+[RPT5000 Repo](https://github.com/C0rinth1an/RPT5000)
+
+<img src="finalassets/RPT5000running.png" width="150"/>
+
+🔙 [Back to TOC](#-table-of-contents)
+
+---
+
+# RPT6000
+
+An advanced `COBOL` reporting project focused on table handling, indexed lookups, REDEFINES, and modular copybook usage.
+
+### Key Concepts
+REDEFINES | OCCURS | INDEXED BY | COPYLIB | Edited PIC Clauses
+
+### Tech Stack
+![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+
+✅ Completed  
+[RPT6000 Repo](https://github.com/C0rinth1an/RPT6000)
+
+<img src="finalassets/RPT6000running.png" width="150"/>
+
+🔙 [Back to TOC](#-table-of-contents)
+
+---
+
+# SEQ3000
+
+A `COBOL` sequential file maintenance program that processes employee master records alongside transaction records to handle adds, deletes, and updates.
+
+### Key Concepts
+Sequential File Processing | Balanced-Line Algorithm | Multi-File Processing | Error Handling
+
+### Tech Stack
+![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+
+✅ Completed  
+[SEQ3000 Repo](https://github.com/C0rinth1an/SEQ3000)
+
+<img src="finalassets/SEQ3000.png" width="150"/>
+
+🔙 [Back to TOC](#-table-of-contents)
+
+---
+
+## 📌 Overall Reflection
+Working through these projects helped me get a much better understanding of enterprise computing and how COBOL programs are structured on a mainframe system. Across these assignments, I worked with report formatting, sequential and indexed file processing, table handling, control break logic, debugging, and JCL execution. Some projects definitely went smoother than others, but overall they helped me get more comfortable troubleshooting problems and understanding how larger COBOL programs are organized and maintained.
