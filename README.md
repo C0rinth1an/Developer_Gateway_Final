@@ -168,7 +168,7 @@ Sequential File Processing | Balanced-Line Algorithm | Multi-File Processing | E
 ✅ Completed  
 [SEQ3000 Repo](https://github.com/C0rinth1an/Section3)
 
-<img src="finalassets/Section3running.png" width="150"/>
+<img src="finalassets/Section3Assignment.png" width="150"/>
 
 🔙 [Back to TOC](#-table-of-contents)
 
