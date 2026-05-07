@@ -10,7 +10,7 @@ Welcome to my GitHub portfolio repository. I’m currently studying Computer Inf
 
 ## 📸 Profile
 <p align="center">
-  <img src="finalfinalassets/my_coprogrammers.jpg" alt="Sorry I dont want my face out there so here's my two helpers" width="150"/>
+  <img src="finalassets/my_coprogrammers.jpg" alt="Sorry I dont want my face out there so here's my two helpers" width="150"/>
 </p>
 
 <h3 align="center">Jason Casillas</h3>
