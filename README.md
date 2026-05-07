@@ -29,7 +29,7 @@ Welcome to my GitHub portfolio repository. I’m currently studying Computer Inf
 | [RPT3000](#rpt3000) | COBOL / JCL | Enterprise Computing | Multi-page reporting system with branch totals | [RPT3000](https://github.com/C0rinth1an/RPT3000) |
 | [RPT5000](#rpt5000) | COBOL / JCL | Enterprise Computing | Advanced reporting with multi-level control break logic | [RPT5000](https://github.com/C0rinth1an/RPT5000) |
 | [RPT6000](#rpt6000) | COBOL / JCL | Enterprise Computing | Table processing, indexed lookups, and copybook usage | [RPT6000](https://github.com/C0rinth1an/RPT6000) |
-| [SEQ3000](#seq3000) | COBOL / JCL | Enterprise Computing | Sequential employee file maintenance program | [SEQ3000](https://github.com/C0rinth1an/SEQ3000) |
+| [SEQ3000](#seq3000) | COBOL / JCL | Enterprise Computing | Sequential employee file maintenance program | [SEQ3000](https://github.com/C0rinth1an/Section3) |
 
 ---
 
@@ -166,9 +166,9 @@ Sequential File Processing | Balanced-Line Algorithm | Multi-File Processing | E
 ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 ✅ Completed  
-[SEQ3000 Repo](https://github.com/C0rinth1an/SEQ3000)
+[SEQ3000 Repo](https://github.com/C0rinth1an/Section3)
 
-<img src="finalassets/SEQ3000.png" width="150"/>
+<img src="finalassets/Section3running.png" width="150"/>
 
 🔙 [Back to TOC](#-table-of-contents)
 
